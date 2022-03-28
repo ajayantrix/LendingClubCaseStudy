@@ -1,21 +1,21 @@
-# Lendind Club Case Study
-We are looking at the Loan discbursal data for a large Online consumer finance company. The data contains ongoing loans, Fully paid and charged-off cases. Along with this various custmer related data.
+# Lending Club Case Study
+We are looking at the Loan disbursal data for a large Online consumer finance company. The data contains ongoing loans, Fully paid and charged-off cases. Along with this various customer related data.
 
-The objective is to look at the existing cutomer data and using Exploratory Data Analysis find what attributes can be used to predict discern final loan disposition i.e. will they be fully paid or charge off. This will help us in managing risk and taking pre-emptive steps where necessary.
+The objective is to look at the existing cutomer data and using Exploratory Data Analysis find what attributes can be used to predict/discern final loan disposition i.e. will they be fully paid or charge off. This will help us in managing risk and taking pre-emptive steps where necessary.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Conclusions](#conclusions) 
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The objective is to identify patterns within the data that can tell if a person is likely to default or not
-- Raw data with > 31000 customer details
-- Loan issuance and disposition data from Consumer Finance company
+- The objective is to identify patterns within the data that can tell if a person is likely to default or not.
+- Raw data with > 31000 customer details.
+- Loan issuance and disposition data from Consumer Finance company.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -43,7 +43,8 @@ Give credit here.
 
 
 ## Contact
-Created by [@ajayantrix] - feel free to contact me!
+Created by [@ajayantrix] - feel free to contact us!
+        &  [@UseName2] - feel free to contact us!
 
 
 <!-- Optional -->
