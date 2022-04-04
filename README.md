@@ -43,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@ajayantrix] &  [@UseName2] - feel free to contact us!
+Created by [@ajayantrix] &  [@nishantraj] - feel free to contact us!
 
 
 <!-- Optional -->
